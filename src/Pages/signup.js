@@ -22,7 +22,7 @@ const Signup = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await fetch('http://localhost:3000/api/users/signup', {
+            const response = await fetch('https://two0ucc125-backend.onrender.com/api/users/signup', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
