@@ -192,7 +192,7 @@ const ProgramsDashboard = () => {
             <div className="foot-child2">
             <h2>Get in Touch:</h2> 
             <a href="https://github.com/panghal007"><img src="gihub2.png"  /></a>
-            <a href="https://www.linkedin.com/in/uniquepanghal/"><img className="img2" src="linkedin.jpg" /></a>    
+            <a href="https://www.linkedin.com/in/uniquepanghal/"><img className="img2" src="linkedIn.jpg" /></a>    
             {/* <h4>-by Unique Panghal</h4>  */}
                 
             </div>
