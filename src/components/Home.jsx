@@ -50,19 +50,20 @@ const Home = () => {
         <div className="right">
             <img src="./theme_img2.jpg" alt=""></img>
         </div>
-        <div className="left">
-          
-            <h1 >Learn from the 
-              <ReactTyped strings={["coolest"]}
-                          typeSpeed={200}
-                          cursorChar="#"
-                          showCursor={false}/>
-             learning platform of India.</h1>
-            <p >Unlock Your Potential with Our Programs.
-            </p>
-          
-            <Link to="/program"> <button>Explore</button></Link>
-        </div>
+       <div className="left">
+          <h1>Learn from the coolest
+          <ReactTyped
+            strings={["coolest"]}
+            typeSpeed={200}
+            cursorChar="#"
+            showCursor={false}
+          />
+          learning platform of India.</h1>
+          <p>Unlock Your Potential with Our Programs.</p>
+          <Link to="/program">
+            <button>Explore</button>
+          </Link>
+      </div>
         
       </div>
       <div className="content3">
