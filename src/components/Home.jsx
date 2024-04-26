@@ -52,12 +52,12 @@ const Home = () => {
         </div>
         <div className="left">
           
-            <h1 >Learn from the <span >coolest
-              {/* <ReactTyped strings={["coolest"]}
+            <h1 >Learn from the 
+              <ReactTyped strings={["coolest"]}
                           typeSpeed={200}
                           cursorChar="#"
-                          showCursor={false}/> */}
-            </span> learning platform of India.</h1>
+                          showCursor={false}/>
+             learning platform of India.</h1>
             <p >Unlock Your Potential with Our Programs.
             </p>
           
